@@ -1,0 +1,26 @@
+{
+  "name": "codersagar-currencyconverter-npmpackage",
+  "version": "1.0.0",
+  "description": "npm package to converte currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder-SagarThakare/currencyConverter-npmPackage.git"
+  },
+  "keywords": [
+    "coder-sagarThakare"
+  ],
+  "author": "coder-sagarThakare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coder-SagarThakare/currencyConverter-npmPackage/issues"
+  },
+  "homepage": "https://github.com/Coder-SagarThakare/currencyConverter-npmPackage#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
